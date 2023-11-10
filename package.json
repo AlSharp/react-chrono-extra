@@ -1,6 +1,6 @@
 {
   "name": "react-chrono-extra",
-  "version": "2.2.7",
+  "version": "1.0.0",
   "license": "MIT",
   "description": "A Modern Timeline component for React",
   "keywords": [
@@ -11,7 +11,7 @@
   ],
   "author": "Prabhu Murthy",
   "repository": {
-    "url": "https://github.com/prabhuignoto/react-chrono",
+    "url": "https://github.com/AlSharp/react-chrono-extra",
     "type": "git"
   },
   "scripts": {

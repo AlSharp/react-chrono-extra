@@ -1,3 +1,5 @@
+### This project is fork from https://github.com/prabhuignoto/react-chrono
+
 <div align="center">
   <img src="./readme-assets/social-logo-small.png" />
 
